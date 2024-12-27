@@ -1,8 +1,6 @@
 # PrivacyAndPolicy
 Privacy and Policy of the game
 
-Privacy Policy
-
 Effective Date: 27/12/2024
 
 The game respects your privacy and is committed to protecting it. This Privacy Policy outlines the type of information the Game collects, how it is used, and your rights regarding this information.
